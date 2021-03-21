@@ -1,6 +1,6 @@
 # CARRIER HAS ARRIVED ![alt text][protoss]
 
-[protoss]: http://i.mycdn.me/i?r=AEHujHvw2RjEbemUCNEorZbxYpb_p_9AcN2FmGik64KrkXJhDzdp4alsS1DMOuPKt_d7Zi9s0CiBOSDmbngC-I-k&fn=external_8
+[protoss]: https://static.wikia.nocookie.net/starcraft/images/a/a5/Carrier_SC2_Head1.jpg/revision/latest/scale-to-width-down/656?cb=20151118232919
 
 <!---
 igotDiamonds/igotDiamonds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
