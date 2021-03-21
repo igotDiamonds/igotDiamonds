@@ -1,4 +1,5 @@
-# CARRIER HAS ARRIVED ![alt text][protoss]
+# CARRIER HAS ARRIVED
+![alt text][protoss]
 
 [protoss]: https://static.wikia.nocookie.net/starcraft/images/a/a5/Carrier_SC2_Head1.jpg/revision/latest/scale-to-width-down/656?cb=20151118232919
 
